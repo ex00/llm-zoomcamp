@@ -2,3 +2,5 @@
 __pycache__/
 .venv
 .envrc
+hw/02/ollama_files/
+hw/02/Dockerfile
